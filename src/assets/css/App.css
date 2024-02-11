@@ -1,0 +1,26 @@
+nav{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.logo{
+    width: 192px;
+    height: 172px;
+}
+button{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    width: 127px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid;
+}
+.services{
+    display: flex;
+    gap:25px
+}
