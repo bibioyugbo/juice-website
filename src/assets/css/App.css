@@ -230,6 +230,9 @@ border-bottom-left-radius: 37.5px;
 position: absolute;
 left:395px
 }
+.footer{
+    font-size: 36px;
+}
 .view-all{
     display: flex;
     justify-content: center;
@@ -238,4 +241,5 @@ left:395px
     font-weight: 400;
     color:#473525E5;
     margin-top: 15px;
+    cursor: pointer;
 }
