@@ -138,6 +138,27 @@ export default function JuiceLanding(){
             </div>
             </div>
         </div>
+        <div className="section-1">
+            <div className="contact-us">
+                <div className="heading-1">
+                    Contact Us
+                </div>
+                <div className="body footer">
+                Send us a message
+                </div>
+            </div>
+            <div className="site-map">
+            <div className="heading-1">
+                    Sitemap
+                </div>
+                <div className="body footer">
+                All our pages
+                </div> 
+            </div>
+            <div className="mail">
+                <img src="src/assets/images/LOGO.svg" alt="" width={207.68} height={172} />
+            </div>
+        </div>
     </div>
     </>
     )
