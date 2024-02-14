@@ -1,7 +1,5 @@
 *{
     width: 100%;
-    
-    
 }
 
 
@@ -140,7 +138,7 @@ button:hover{
 }
 .grape{
     position: absolute;
-    right: 330px;
+    right: 420px;
     top:200px;
     background-image: linear-gradient(white, #FEBA44);
     width: 250px;
@@ -186,7 +184,9 @@ button:hover{
     flex-direction: row;
     gap:15px;
     justify-content: center;
-    margin-top: 40px;    
+    margin-top: 40px;
+    margin-left: -60px;
+
 }
 .name{
   font-family: "Martel Sans", sans-serif;
@@ -228,10 +228,11 @@ align-items: center;
 border-top-right-radius: 37.5px;
 border-bottom-left-radius: 37.5px;
 position: absolute;
-left:395px
+left:380px
 }
 .footer{
     font-size: 36px;
+
 }
 .view-all{
     display: flex;
@@ -242,4 +243,97 @@ left:395px
     color:#473525E5;
     margin-top: 15px;
     cursor: pointer;
+}
+.mail{
+    margin-left: -50px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+.site-map{
+  margin-left: 80px;
+}
+.body-list{
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: #3A2818;
+}
+.phone-img{
+    width: 25.6px;
+}
+.section-1.footer{
+    display: flex;
+}
+.facebook{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 58px;
+    height: 56px;
+    border-radius: 100%;
+    background-color: white;
+}
+.email{
+    width: 39.32px;
+}
+.your-message{
+    width: 442px;
+    height: 120px;
+    background-color: white;
+    color: #00000080;
+    border-radius: 20px;
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    display: flex;
+    align-items: center;
+}
+.full-name{
+    width: 324px;
+    height: 59px;
+    background-color: white;
+    color: #00000080;
+    border-radius: 20px;
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    display: flex;
+    align-items: center;
+}
+.text-box{
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.text-button{
+    background-color: #FFA500;
+    width: 212.9px;
+    height: 60px;
+    border-radius: 20px;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.phone-number{
+    font-size: 36px;
+    color: #3A2818;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    gap: 8px;
+
+}
+.socials{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: row;
+    gap:15px;
+    width: 250%;
+    justify-content: center;
+    align-items: center;
+
+}
+.socials-text{
+    font-family: "Inter", sans-serif;
+    color:#555555;
 }
