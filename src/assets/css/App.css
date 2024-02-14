@@ -182,7 +182,7 @@ button:hover{
 .section-3-img{
     display: flex;
     flex-direction: row;
-    gap:15px;
+    gap:35px;
     justify-content: center;
     margin-top: 40px;
     margin-left: -60px;
@@ -228,7 +228,7 @@ align-items: center;
 border-top-right-radius: 37.5px;
 border-bottom-left-radius: 37.5px;
 position: absolute;
-left:380px
+left:360px
 }
 .footer{
     font-size: 36px;

@@ -115,7 +115,7 @@ export default function JuiceLanding(){
                             </div>
                         </div>
                         <div className="mango">
-                            <div className="top-heart" style={{position: "absolute", left: "1210px"}}>
+                            <div className="top-heart" style={{position: "absolute", left: "1230px"}}>
                                 <img src="src/assets/images/fi-br-heart.svg" alt="" width={22.44} height={23.64}/>
                             </div>
                             <div className="img">
